@@ -102,4 +102,5 @@ Simulation Logs: History of simulations run
 User Profile: Account details and settings
 
 
-<img width="447" height="656" alt="image" src="https://github.com/user-attachments/assets/de35f7b4-d18d-4225-8340-d85e667a35b4" />
+<img width="441" height="299" alt="image" src="https://github.com/user-attachments/assets/a11f3063-0a97-4f2e-8db4-6487842c1d13" />
+
